@@ -9,4 +9,4 @@ run that by
 
 ./environment
 
-you would the get the output similar to the main page.
+you would get the output similar to the main page.
