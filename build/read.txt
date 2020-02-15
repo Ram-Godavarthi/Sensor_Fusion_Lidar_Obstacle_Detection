@@ -1,0 +1,12 @@
+run these commands  in /build folder
+
+cmake ..
+make
+
+executable will be generated.
+
+run that by 
+
+./environment
+
+you would the get the output similar to the main page.
